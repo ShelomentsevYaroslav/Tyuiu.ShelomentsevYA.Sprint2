@@ -9,7 +9,7 @@ namespace Tyuiu.ShelomentsevYA.Sprint2.Task0.V8
 
             Console.Title = "Спринт #2 | Выполнил: Шеломенцев Я. А. | ИСТНб-25-1";
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Спринт #1                                                               *");
+            Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема: Операции сравнения                                                *");
             Console.WriteLine("* Задание #0                                                              *");
             Console.WriteLine("* Вариант #8                                                              *");
