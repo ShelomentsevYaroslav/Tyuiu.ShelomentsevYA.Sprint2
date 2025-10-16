@@ -11,7 +11,7 @@ namespace Tyuiu.ShelomentsevYA.Sprint2.Task4.V18
             Console.Title = "Спринт #2 | Выполнил: Шеломенцев Я. А. | ИСТНб-25-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
-            Console.WriteLine("* Тема: Вложенные операторы if - else                                     *");
+            Console.WriteLine("* Тема: Тернарный оператор                                                *");
             Console.WriteLine("* Задание #4                                                              *");
             Console.WriteLine("* Вариант #18                                                             *");
             Console.WriteLine("* Выполнил: Шеломенцев Ярослав Александрович | ИСТНб-25-1                 *");
