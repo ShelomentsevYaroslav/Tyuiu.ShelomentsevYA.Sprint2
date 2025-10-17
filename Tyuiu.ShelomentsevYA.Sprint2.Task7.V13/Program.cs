@@ -36,7 +36,7 @@ namespace Tyuiu.ShelomentsevYA.Sprint2.Task7.V13
             if (result)
                 Console.WriteLine("Точки находится в заштрихованной области.");
             else
-                Console.WriteLine($"Точки находится вне заштрихованной области.");
+                Console.WriteLine("Точки находится вне заштрихованной области.");
 
             Console.ReadKey();
         }
